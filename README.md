@@ -127,3 +127,10 @@ Scores by School Type
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+
+
+All code was taken from class module slides and the links below:
+https://git.bootcampcontent.com/George-Washington-University/GWU-VIRT-DATA-PT-10-2023-U-LOLC
+https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html
+
+
